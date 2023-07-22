@@ -48,7 +48,7 @@
                 </div>
                 <input type="submit" value="login" class="btn btn-success">
                 <a href="register.php" class="btn btn-info">
-                    create Account
+                    Sign Up
                 </a>
             </form>
         </div>
