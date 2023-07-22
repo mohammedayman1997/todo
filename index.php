@@ -30,6 +30,7 @@
                             <?php
                             echo $_SESSION['errors']['email'];
                             unset($_SESSION['errors']['email']);
+                            unset($_SESSION['errors']['email']);
                             ?>
                         </div>
                     <?php endif; ?>
